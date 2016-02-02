@@ -1,0 +1,335 @@
+Description;Code
+General;1000
+Agricultural and Biological Sciences(all);1100
+Agricultural and Biological Sciences (miscellaneous);1101
+Agronomy and Crop Science;1102
+Animal Science and Zoology;1103
+Aquatic Science;1104
+Ecology, Evolution, Behavior and Systematics;1105
+Food Science;1106
+Forestry;1107
+Horticulture;1108
+Insect Science;1109
+Plant Science;1110
+Soil Science;1111
+Arts and Humanities(all);1200
+Arts and Humanities (miscellaneous);1201
+History;1202
+Language and Linguistics;1203
+Archaeology;1204
+Classics;1205
+Conservation;1206
+History and Philosophy of Science;1207
+Literature and Literary Theory;1208
+Museology;1209
+Music;1210
+Philosophy;1211
+Religious studies;1212
+Visual Arts and Performing Arts;1213
+Biochemistry, Genetics and Molecular Biology(all);1300
+Biochemistry, Genetics and Molecular Biology (miscellaneous);1301
+Ageing;1302
+Biochemistry;1303
+Biophysics;1304
+Biotechnology;1305
+Cancer Research;1306
+Cell Biology;1307
+Clinical Biochemistry;1308
+Developmental Biology;1309
+Endocrinology;1310
+Genetics;1311
+Molecular Biology;1312
+Molecular Medicine;1313
+Physiology;1314
+Structural Biology;1315
+Business, Management and Accounting(all);1400
+Business, Management and Accounting (miscellaneous);1401
+Accounting;1402
+Business and International Management;1403
+Management Information Systems;1404
+Management of Technology and Innovation;1405
+Marketing;1406
+Organizational Behavior and Human Resource Management;1407
+Strategy and Management;1408
+Tourism, Leisure and Hospitality Management;1409
+Industrial relations;1410
+Chemical Engineering(all);1500
+Chemical Engineering (miscellaneous);1501
+Bioengineering;1502
+Catalysis;1503
+Chemical Health and Safety;1504
+Colloid and Surface Chemistry;1505
+Filtration and Separation;1506
+Fluid Flow and Transfer Processes;1507
+Process Chemistry and Technology;1508
+Chemistry(all);1600
+Chemistry (miscellaneous);1601
+Analytical Chemistry;1602
+Electrochemistry;1603
+Inorganic Chemistry;1604
+Organic Chemistry;1605
+Physical and Theoretical Chemistry;1606
+Spectroscopy;1607
+Computer Science(all);1700
+Computer Science (miscellaneous);1701
+Artificial Intelligence;1702
+Computational Theory and Mathematics;1703
+Computer Graphics and Computer-Aided Design;1704
+Computer Networks and Communications;1705
+Computer Science Applications;1706
+Computer Vision and Pattern Recognition;1707
+Hardware and Architecture;1708
+Human-Computer Interaction;1709
+Information Systems;1710
+Signal Processing;1711
+Software;1712
+Decision Sciences(all);1800
+Decision Sciences (miscellaneous);1801
+Information Systems and Management;1802
+Management Science and Operations Research;1803
+Statistics, Probability and Uncertainty;1804
+Earth and Planetary Sciences(all);1900
+Earth and Planetary Sciences (miscellaneous);1901
+Atmospheric Science;1902
+Computers in Earth Sciences;1903
+Earth-Surface Processes;1904
+Economic Geology;1905
+Geochemistry and Petrology;1906
+Geology;1907
+Geophysics;1908
+Geotechnical Engineering and Engineering Geology;1909
+Oceanography;1910
+Palaeontology;1911
+Space and Planetary Science;1912
+Stratigraphy;1913
+Economics, Econometrics and Finance(all);2000
+Economics, Econometrics and Finance (miscellaneous);2001
+Economics and Econometrics;2002
+Finance;2003
+Energy(all);2100
+Energy (miscellaneous);2101
+Energy Engineering and Power Technology;2102
+Fuel Technology;2103
+Nuclear Energy and Engineering;2104
+Renewable Energy, Sustainability and the Environment;2105
+Engineering(all);2200
+Engineering (miscellaneous);2201
+Aerospace Engineering;2202
+Automotive Engineering;2203
+Biomedical Engineering;2204
+Civil and Structural Engineering;2205
+Computational Mechanics;2206
+Control and Systems Engineering;2207
+Electrical and Electronic Engineering;2208
+Industrial and Manufacturing Engineering;2209
+Mechanical Engineering;2210
+Mechanics of Materials;2211
+Ocean Engineering;2212
+Safety, Risk, Reliability and Quality;2213
+Media Technology;2214
+Building and Construction;2215
+Architecture ;2216
+Environmental Science(all);2300
+Environmental Science (miscellaneous);2301
+Ecological Modelling;2302
+Ecology;2303
+Environmental Chemistry;2304
+Environmental Engineering;2305
+Global and Planetary Change;2306
+Health, Toxicology and Mutagenesis;2307
+Management, Monitoring, Policy and Law;2308
+Nature and Landscape Conservation;2309
+Pollution;2310
+Waste Management and Disposal;2311
+Water Science and Technology;2312
+Immunology and Microbiology(all);2400
+Immunology and Microbiology (miscellaneous) ;2401
+Applied Microbiology and Biotechnology;2402
+Immunology;2403
+Microbiology;2404
+Parasitology;2405
+Virology;2406
+Materials Science(all);2500
+Materials Science (miscellaneous);2501
+Biomaterials;2502
+Ceramics and Composites;2503
+Electronic, Optical and Magnetic Materials;2504
+Materials Chemistry;2505
+Metals and Alloys;2506
+Polymers and Plastics;2507
+Surfaces, Coatings and Films;2508
+Mathematics(all);2600
+Mathematics (miscellaneous);2601
+Algebra and Number Theory;2602
+Analysis;2603
+Applied Mathematics;2604
+Computational Mathematics;2605
+Control and Optimization;2606
+Discrete Mathematics and Combinatorics;2607
+Geometry and Topology;2608
+Logic;2609
+Mathematical Physics;2610
+Modelling and Simulation;2611
+Numerical Analysis;2612
+Statistics and Probability;2613
+Theoretical Computer Science;2614
+Medicine(all);2700
+Medicine (miscellaneous);2701
+Anatomy;2702
+Anesthesiology and Pain Medicine;2703
+Biochemistry, medical;2704
+Cardiology and Cardiovascular Medicine;2705
+Critical Care and Intensive Care Medicine;2706
+Complementary and alternative medicine;2707
+Dermatology;2708
+Drug guides;2709
+Embryology;2710
+Emergency Medicine;2711
+Endocrinology, Diabetes and Metabolism;2712
+Epidemiology;2713
+Family Practice;2714
+Gastroenterology;2715
+Genetics(clinical);2716
+Geriatrics and Gerontology;2717
+Health Informatics;2718
+Health Policy;2719
+Hematology;2720
+Hepatology;2721
+Histology;2722
+Immunology and Allergy;2723
+Internal Medicine;2724
+Infectious Diseases;2725
+Microbiology (medical);2726
+Nephrology;2727
+Clinical Neurology;2728
+Obstetrics and Gynaecology;2729
+Oncology;2730
+Ophthalmology;2731
+Orthopedics and Sports Medicine;2732
+Otorhinolaryngology;2733
+Pathology and Forensic Medicine;2734
+Pediatrics, Perinatology, and Child Health;2735
+Pharmacology (medical);2736
+Physiology (medical);2737
+Psychiatry and Mental health;2738
+Public Health, Environmental and Occupational Health;2739
+Pulmonary and Respiratory Medicine;2740
+Radiology Nuclear Medicine and imaging;2741
+Rehabilitation;2742
+Reproductive Medicine;2743
+Reviews and References, Medical;2744
+Rheumatology;2745
+Surgery;2746
+Transplantation;2747
+Urology;2748
+Neuroscience(all);2800
+Neuroscience (miscellaneous);2801
+Behavioral Neuroscience;2802
+Biological Psychiatry;2803
+Cellular and Molecular Neuroscience;2804
+Cognitive Neuroscience;2805
+Developmental Neuroscience;2806
+Endocrine and Autonomic Systems;2807
+Neurology;2808
+Sensory Systems;2809
+Nursing(all);2900
+Nursing (miscellaneous);2901
+Advanced and Specialised Nursing;2902
+Assessment and Diagnosis;2903
+Care Planning;2904
+Community and Home Care;2905
+Critical Care;2906
+Emergency;2907
+Fundamentals and skills;2908
+Gerontology;2909
+Issues, ethics and legal aspects;2910
+Leadership and Management;2911
+LPN and LVN;2912
+Maternity and Midwifery;2913
+Medical–Surgical;2914
+Nurse Assisting;2915
+Nutrition and Dietetics;2916
+Oncology(nursing);2917
+Pathophysiology;2918
+Pediatrics;2919
+Pharmacology (nursing);2920
+Phychiatric Mental Health;2921
+Research and Theory;2922
+Review and Exam Preparation;2923
+Pharmacology, Toxicology and Pharmaceutics(all);3000
+Pharmacology, Toxicology and Pharmaceutics (miscellaneous);3001
+Drug Discovery;3002
+Pharmaceutical Science;3003
+Pharmacology;3004
+Toxicology;3005
+Physics and Astronomy(all);3100
+Physics and Astronomy (miscellaneous);3101
+Acoustics and Ultrasonics;3102
+Astronomy and Astrophysics;3103
+Condensed Matter Physics;3104
+Instrumentation;3105
+Nuclear and High Energy Physics;3106
+Atomic and Molecular Physics, and Optics;3107
+Radiation;3108
+Statistical and Nonlinear Physics;3109
+Surfaces and Interfaces;3110
+Psychology(all);3200
+Psychology (miscellaneous);3201
+Applied Psychology;3202
+Clinical Psychology;3203
+Developmental and Educational Psychology;3204
+Experimental and Cognitive Psychology;3205
+Neuropsychology and Physiological Psychology;3206
+Social Psychology;3207
+Social Sciences(all);3300
+Social Sciences (miscellaneous);3301
+Archaeology;3302
+Development;3303
+Education;3304
+Geography, Planning and Development;3305
+Health(social science);3306
+Human Factors and Ergonomics;3307
+Law;3308
+Library and Information Sciences;3309
+Linguistics and Language;3310
+Safety Research;3311
+Sociology and Political Science;3312
+Transportation;3313
+Anthropology;3314
+Communication;3315
+Cultural Studies;3316
+Demography;3317
+Gender Studies;3318
+Life-span and Life-course Studies;3319
+Political Science and International Relations;3320
+Public Administration;3321
+Urban Studies;3322
+veterinary(all);3400
+veterinary (miscalleneous);3401
+Equine;3402
+Food Animals;3403
+Small Animals;3404
+Dentistry(all);3500
+Dentistry (miscellaneous);3501
+Dental Assisting;3502
+Dental Hygiene;3503
+Oral Surgery;3504
+Orthodontics;3505
+Periodontics;3506
+Health Professions(all);3600
+Health Professions (miscellaneous);3601
+Chiropractics;3602
+Complementary and Manual Therapy;3603
+Emergency Medical Services;3604
+Health Information Management;3605
+Medical Assisting and Transcription;3606
+Medical Laboratory Technology;3607
+Medical Terminology;3608
+Occupational Therapy;3609
+Optometry;3610
+Pharmacy;3611
+Physical Therapy, Sports Therapy and Rehabilitation;3612
+Podiatry;3613
+Radiological and Ultrasound Technology;3614
+Respiratory Care;3615
+Speech and Hearing;3616
